@@ -11,3 +11,7 @@ Each exercise consists of multiple parts. In most cases the solution required fo
 fashion in later parts. Also, the solutions produced for early exercises are often reusable for parts of more advanced 
 exercises. Our basic approach is to encourage students to develop their circuits in small increments and to build larger 
 circuits in a modular, hierarchical fashion.
+
+# LabsLand
+
+This version of the exercises is designed to be used with the LabsLand platform.
